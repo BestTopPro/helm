@@ -309,8 +309,9 @@ github.com/docker/cli v20.10.6+incompatible h1:LAyI6Lnwv+AUjtp2ZyN1lxqXBtkeFUqm4
 github.com/docker/cli v20.10.6+incompatible/go.mod h1:JLrzqnKDaYBop7H2jaqPtU4hHvMKP+vjCwu2uszcLI8=
 github.com/docker/distribution v0.0.0-20191216044856-a8371794149d h1:jC8tT/S0OGx2cswpeUTn4gOIea8P08lD3VFQT0cOZ50=
 github.com/docker/distribution v0.0.0-20191216044856-a8371794149d/go.mod h1:0+TTO4EOBfRPhZXAeF1Vu+W3hHZ8eLp8PgKVZlcvtFY=
-github.com/docker/docker v17.12.0-ce-rc1.0.20200618181300-9dc6525e6118+incompatible h1:iWPIG7pWIsCwT6ZtHnTUpoVMnete7O/pzd9HFE3+tn8=
 github.com/docker/docker v17.12.0-ce-rc1.0.20200618181300-9dc6525e6118+incompatible/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
+github.com/docker/docker v20.10.21+incompatible h1:UTLdBmHk3bEY+w8qeO5KttOhy6OmXWsl/FEet9Uswog=
+github.com/docker/docker v20.10.21+incompatible/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
 github.com/docker/docker-credential-helpers v0.6.3 h1:zI2p9+1NQYdnG6sMU26EX4aVGlqbInSQxQXLvzJ4RPQ=
 github.com/docker/docker-credential-helpers v0.6.3/go.mod h1:WRaJzqw3CTB9bk10avuGsjVBZsD05qeibJ1/TYlvc0Y=
 github.com/docker/go-connections v0.4.0 h1:El9xVISelRB7BuFusrZozjnkIM5YnzCViNKohAFqRJQ=
@@ -786,7 +787,6 @@ github.com/opencontainers/runc v0.0.0-20190115041553-12f6a991201f/go.mod h1:qT5X
 github.com/opencontainers/runc v0.1.1/go.mod h1:qT5XzbpPznkRYVz/mWwUaVBUv2rmF59PVA73FjuZG0U=
 github.com/opencontainers/runc v1.0.0-rc8.0.20190926000215-3e425f80a8c9/go.mod h1:qT5XzbpPznkRYVz/mWwUaVBUv2rmF59PVA73FjuZG0U=
 github.com/opencontainers/runc v1.0.0-rc9/go.mod h1:qT5XzbpPznkRYVz/mWwUaVBUv2rmF59PVA73FjuZG0U=
-github.com/opencontainers/runc v1.0.0-rc93 h1:x2UMpOOVf3kQ8arv/EsDGwim8PTNqzL1/EYDr/+scOM=
 github.com/opencontainers/runc v1.0.0-rc93/go.mod h1:3NOsor4w32B2tC0Zbl8Knk4Wg84SM2ImC1fxBuqJ/H0=
 github.com/opencontainers/runtime-spec v0.1.2-0.20190507144316-5b71a03e2700/go.mod h1:jwyrGlmzljRJv/Fgzds9SsS/C5hL+LL3ko9hs6T5lQ0=
 github.com/opencontainers/runtime-spec v1.0.1/go.mod h1:jwyrGlmzljRJv/Fgzds9SsS/C5hL+LL3ko9hs6T5lQ0=
